@@ -1,0 +1,60 @@
+=== Plugin Name ===
+Contributors: rubenstorm
+Donate link: http://example.com/
+Tags: storm, shortcodes, shortcode
+Requires at least: 3.3.2
+Tested up to: 3.3.2
+Stable tag: 0.1
+
+Adds all kind of new shortcodes to your Wordpress.
+
+== Description ==
+
+With this plugin activated the a lot of shortcodes without a admin interface, so activate it and use it
+
+= Example Usage = 
+Typing `[email]` into a Post will display the site admin's email to your visitors.
+
+= Features = 
+
+*	**No new administration screen.** This plugin does not add options page to your already cluttered admin area.
+*	**Clean install and uninstall.** This plugin does not modify your database at all.
+
+== Installation ==
+
+1. Install
+1. Activate
+1. That's it!
+
+== Frequently Asked Questions ==
+
+= What are shortcodes? =
+
+From the WordPress Codex:
+
+> *"Introduced in WordPress 2.5 is the Shortcode API, a simple set of functions for creating macro codes for use in post content."* [(read more)](https://codex.wordpress.org/Shortcode_API "WordPress Shortcode API")
+
+= What available shortcodes are there? =
+
+`[email]`
+`[profile_link]`
+`[wpurl]`
+`[atom_url]`
+`[rss2_url]`
+`[rss_url]`
+`[pingback_url]`
+`[rdf_url]`
+`[comments_atom_url]`
+`[comments_rss2_url]`
+`[version]`
+`[wpversion]`
+
+== Changelog ==
+
+= 0.0.1 =
+*	First release.
+
+== Upgrade Notice ==
+
+= 0.0.1 =
+First release.
