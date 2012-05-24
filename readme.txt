@@ -11,21 +11,6 @@ interface, so activate it and use it.
 It also makes it possible for you to secure some text parts in your wordpress
 installation from the public, two choices you have, public or members only.
 
-Example Usage
---------------
-
-License
---------------
-
-### GNU General Public License 3.0
-
-
-* [GPL](http://www.gnu.org/licenses/gpl.html) -- `GNU General Public License` (https://github.com/tanoku/redcarpet)
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
 
 
 Example Usage
@@ -103,4 +88,3 @@ More informations
 [Wordpress]: https://codex.wordpress.org/Shortcode_API
 [Wiki]: https://github.com/rubenstorm/storm-shortcodes/wiki
 [Blog]: http://blog.ruben-storm.eu
-[GNU General Public License]: http://www.gnu.org/licenses/gpl.html
