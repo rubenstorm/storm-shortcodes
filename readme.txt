@@ -87,4 +87,5 @@ More informations
 
 [Wordpress]: https://codex.wordpress.org/Shortcode_API
 [Wiki]: https://github.com/rubenstorm/storm-shortcodes/wiki
-[Blog]: http://blog.ruben-storm.eu
+[Blog]: http://ruben-storm.eu
+
