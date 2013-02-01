@@ -32,7 +32,7 @@ A shortcode looks like `[email]` and if you type this in your post, it will
 show your admins email address. It works on posts and pages.
 There are also shortcodes like
 
-            `[users_only]` Only users see this message `[users_only]`
+            `[users_only]` Only users see this message `[/users_only]`
 
 
 
