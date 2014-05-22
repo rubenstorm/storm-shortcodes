@@ -3,14 +3,14 @@ Storm ShortCodes
 
 Adds all kind of new shortcodes to your Wordpress 3.3 Blog.
 
-== Description ==
+## Description
 
 With this plugin you activate a lot of shortcodes without a admin
 interface, so activate it and use it.
 It also makes it possible for you to secure some text parts in your wordpress
 installation from the public, two choices you have, public or members only.
 
-== Example Usage ==
+### Example Usage
 A shortcode looks like `[email]` and if you type this in your post, it will
 show your admins email address. It works on posts and pages.
 There are also shortcodes like
@@ -53,7 +53,7 @@ not that much at the time, but iam working on it. You have an idea, tell me!
 = 0.0.1 =
 
 
-== More informationsMore informations ==
+== More informations ==
 
 [Wordpress]: https://codex.wordpress.org/Shortcode_API
 [Wiki]: https://github.com/rubenstorm/storm-shortcodes/wiki
