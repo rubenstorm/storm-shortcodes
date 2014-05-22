@@ -3,7 +3,7 @@ Storm ShortCodes
 
 Adds all kind of new shortcodes to your Wordpress 3.3 Blog.
 
-## Description
+### Description
 
 With this plugin you activate a lot of shortcodes without a admin
 interface, so activate it and use it.
@@ -18,7 +18,7 @@ There are also shortcodes like
             `[rsMembers]` Only users see this message `[/rsMembers]`
 
 
-== Installation ==
+### Installation
 
 *  [1.] `Install`
 *  [2.] `Activate`
@@ -30,7 +30,7 @@ There are also shortcodes like
 
     Just run the Wordpress install tool, thats it!!!
 
-== Frequently Asked Questions ==
+### Frequently Asked Questions
 
 *  What are shortcodes?
 A shortcode is a bit of code you can put in your pages and posts so you dont
@@ -48,13 +48,13 @@ not that much at the time, but iam working on it. You have an idea, tell me!
 *  `[rsAdmin]`
 
 
-== Changelog ==
+### Changelog
 
-= 0.0.1 =
+#### 0.0.1
 
 
-== More informations ==
+### More informations
 
-[Wordpress]: https://codex.wordpress.org/Shortcode_API
-[Wiki]: https://github.com/rubenstorm/storm-shortcodes/wiki
-[Blog]: http://ruben-storm.de/blog
+*  [Wordpress]: https://codex.wordpress.org/Shortcode_API
+*  [Wiki]: https://github.com/rubenstorm/storm-shortcodes/wiki
+*  [Blog]: http://ruben-storm.de/blog
